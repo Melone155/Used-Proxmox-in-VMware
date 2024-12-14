@@ -4,7 +4,7 @@ Even if it seems unusual at first to virtualize a virtualization product once ag
 
 ### What do you Need
 
-VMware Workstation Pro (This is scince  May 13, 2024 Free)
+VMware Workstation Pro (This is scince  May, 2024 Free)
 Proxmox
 A device with enough computing power
 
